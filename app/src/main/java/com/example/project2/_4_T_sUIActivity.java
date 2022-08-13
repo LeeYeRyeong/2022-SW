@@ -15,5 +15,7 @@ public class _4_T_sUIActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_4_ts_uiactivity);
+
+        Sinseoldong  = findViewById(R.id.Sinseoldong);
     }
 }
