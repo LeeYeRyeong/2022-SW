@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 public class _4_T_sUIActivity extends AppCompatActivity {
 
+    TextView Sinseoldong ;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
