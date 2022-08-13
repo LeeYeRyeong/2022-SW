@@ -10,13 +10,13 @@ import android.widget.TextView;
 
 public class _4_T_s2Activity extends AppCompatActivity {
 
-    TextView YangcheonguOffice ;
+    TextView Bongcheon  ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_4_ts2);
 
-        YangcheonguOffice = findViewById(R.id.YangcheonguOffice);
+        Bongcheon = findViewById(R.id.Bongcheon );
     }
 }
