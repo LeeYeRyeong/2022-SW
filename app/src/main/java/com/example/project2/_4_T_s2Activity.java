@@ -10,13 +10,14 @@ import android.widget.TextView;
 
 public class _4_T_s2Activity extends AppCompatActivity {
 
-    TextView SeoulNatlUniv;
+    TextView SeoulNatlUniv, Bongcheon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_4_ts2);
 
-        SeoulNatlUniv    = findViewById(R.id.SeoulNatlUniv );
+        SeoulNatlUniv = findViewById(R.id.SeoulNatlUniv);
+        Bongcheon = findViewById(R.id.Bongcheon);
     }
 }
