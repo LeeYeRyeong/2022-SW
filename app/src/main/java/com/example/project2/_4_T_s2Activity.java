@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class _4_T_s2Activity extends AppCompatActivity {
 
-    TextView Kkachisan ;
+    TextView Sinjeongnegeori ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
