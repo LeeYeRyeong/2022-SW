@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class _4_T_s2Activity extends AppCompatActivity {
 
-    TextView SeoulNatlUniv, Bongcheon;
+    TextView SeoulNatlUniv, Bongcheon, Sillim;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,5 +19,6 @@ public class _4_T_s2Activity extends AppCompatActivity {
 
         SeoulNatlUniv = findViewById(R.id.SeoulNatlUniv);
         Bongcheon = findViewById(R.id.Bongcheon);
+        Sillim = findViewById(R.id.Sillim);
     }
 }
