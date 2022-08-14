@@ -16,22 +16,22 @@
         android:theme="@style/Theme.Project2"
         tools:targetApi="31">
         <activity
-            android:name="._UJ_gsp"
+            android:name="._uj_gsp"
             android:exported="false" />
         <activity
-            android:name="._UI_gsp"
+            android:name="._ui_gsp"
             android:exported="false" />
         <activity
-            android:name="._SR_gsp"
+            android:name="._sr_gsp"
             android:exported="false" />
         <activity
-            android:name="._SI_gsp"
+            android:name="._si_gsp"
             android:exported="false" />
         <activity
-            android:name="._SH_gsp"
+            android:name="._sh_gsp"
             android:exported="false" />
         <activity
-            android:name="._SB_gsp"
+            android:name="._sb_gsp"
             android:exported="false" />
         <activity
             android:name="._I2_gsp"
@@ -40,22 +40,22 @@
             android:name="._I1_gsp"
             android:exported="false" />
         <activity
-            android:name="._GU_gsp"
+            android:name="._gu_gsp"
             android:exported="false" />
         <activity
-            android:name="._GP_gsp"
+            android:name="._gp_gsp"
             android:exported="false" />
         <activity
-            android:name="._GH_gsp"
+            android:name="._gh_gsp"
             android:exported="false" />
         <activity
-            android:name="._GG_gsp"
+            android:name="._gg_gsp"
             android:exported="false" />
         <activity
-            android:name="._GC_gsp"
+            android:name="._gc_gsp"
             android:exported="false" />
         <activity
-            android:name="._EV_gsp"
+            android:name="._ev_gsp"
             android:exported="false" />
         <activity
             android:name="._s9_gsp"
