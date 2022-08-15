@@ -33,5 +33,112 @@ public class _4_T_sUJActivity extends AppCompatActivity {
         Songsan = findViewById(R.id.Songsan);
         Tapseok = findViewById(R.id.Tapseok);
 
+        Balgok.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Hoeryong.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Beomgol.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        LRTUijeongbu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        UijeongbuCityHall.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Heungseon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        UijeongbuJungang.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Dongo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Saemal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        GyeonggiProvincialGovernmentNorthernOffice.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Hyoja.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Gonjae.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Eoryong.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Songsan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Tapseok.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _uj_gsp.class);
+                startActivity(intent);
+            }
+        });
+
+
     }
 }

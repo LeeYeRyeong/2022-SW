@@ -31,5 +31,107 @@ public class _4_T_sGHActivity extends AppCompatActivity {
         IncheonIntlAirportTerminal1 = findViewById(R.id.IncheonIntlAirportTerminal1);
         IncheonIntlAirportTerminal2 = findViewById(R.id.IncheonIntlAirportTerminal2);
 
+        SeoulStation.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Gongdeok.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        HongikUniv.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        DigitalMediaCity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Magongnaru.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        GimpoIntlAirport.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Gyeyang.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Geomam.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        CheongnaIntlCity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Yeongjong.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Unseo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        IncheonIntlAirportCargoTerminal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        IncheonIntlAirportTerminal1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+        IncheonIntlAirportTerminal2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gh_gsp.class);
+                startActivity(intent);
+            }
+        });
+
+
+
+
     }
 }

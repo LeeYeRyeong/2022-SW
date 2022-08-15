@@ -26,5 +26,78 @@ public class _4_T_sGPActivity extends AppCompatActivity {
         Pungmu = findViewById(R.id.Pungmu);
         Gochon = findViewById(R.id.Gochon);
         GimpoIntlAirport = findViewById(R.id.GimpoIntlAirport);
+
+        Yangchon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Gurae.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Masan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Janggi.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Unyang.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        GeolpoBukbyeon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Sau.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Pungmu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Gochon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+        GimpoIntlAirport.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gp_gsp.class);
+                startActivity(intent);
+            }
+        });
+
+
     }
 }

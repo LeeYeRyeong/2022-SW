@@ -29,6 +29,87 @@ public class _4_T_sGGActivity extends AppCompatActivity {
         Sejongdaewangneung = findViewById(R.id.Sejongdaewangneung);
         Yeoju = findViewById(R.id.Yeoju);
 
+        Pangyo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Imae.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Samdong.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        GyeonggiGwangju.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Chowol.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Gonjiam.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Sindundoyechon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Icheon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Bubal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Sejongdaewangneung.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+        Yeoju.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), _gg_gsp.class);
+                startActivity(intent);
+            }
+        });
+
+
+
+
 
     }
 }

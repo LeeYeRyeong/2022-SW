@@ -34,10 +34,10 @@
             android:name="._sb_gsp"
             android:exported="false" />
         <activity
-            android:name="._I2_gsp"
+            android:name="._si2_gsp"
             android:exported="false" />
         <activity
-            android:name="._I1_gsp"
+            android:name="._si1_gsp"
             android:exported="false" />
         <activity
             android:name="._gu_gsp"
