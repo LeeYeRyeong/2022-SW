@@ -82,9 +82,6 @@
             android:name="._s2_gsp"
             android:exported="false" />
         <activity
-            android:name="._s1_gsp"
-            android:exported="false" />
-        <activity
             android:name="._2_DeliveryTaxiActivity"
             android:exported="false" />
         <activity

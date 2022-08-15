@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HANSY/AndroidStudioProjects/2022-SW/app/src/main/res/layout/activity_4_ts1_gsp.xml" value="0.34103260869565216" />
         <entry key="..\:/Users/i8768/Project2/app/src/main/res/layout/activity_join.xml" value="0.22" />
         <entry key="..\:/Users/i8768/Project2/app/src/main/res/layout/activity_list.xml" value="0.1308876811594203" />
         <entry key="..\:/Users/i8768/Project2/app/src/main/res/layout/activity_login.xml" value="0.22" />
@@ -54,7 +55,6 @@
         <entry key="..\:/Users/user/Android Studio/project1/app/src/main/res/layout/activity_detail.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/user/Android Studio/project1/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/user/Android Studio/project1/app/src/main/res/layout/activity_s1_gsp.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/user/Android Studio/project1/app/src/main/res/layout/activity_s1_gsp3.xml" value="0.12771739130434784" />
       </map>
     </option>
   </component>
